@@ -7,8 +7,8 @@ class ToDoDatabase {
 
   void initialdata() {
     toDoList = [
-      ["Bang Bitches", false],
-      ["Fuck chicks", false],
+      ["Do Exerscise", false],
+      ["Study", false],
     ];
   }
 
